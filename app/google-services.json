@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376728403790",
+    "firebase_url": "https://wpapersmain.firebaseio.com",
+    "project_id": "wpapersmain",
+    "storage_bucket": "wpapersmain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376728403790:android:d9e363cfc5379838",
+        "android_client_info": {
+          "package_name": "com.example.wpapersmain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376728403790-6l1usqmlupai6qbhtmbu30der3faks73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wpapersmain",
+            "certificate_hash": "db91d6c26fb08df6de2f2506d811e6d68b59ebc3"
+          }
+        },
+        {
+          "client_id": "376728403790-agnb2ht986c0am92jrr09tna7m04224p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6bXYGgl6QP4gMKMFYicRhs2gtDJCih9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376728403790-agnb2ht986c0am92jrr09tna7m04224p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
